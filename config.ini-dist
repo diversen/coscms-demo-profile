@@ -35,4 +35,3 @@ cached_assets_reload = 0
 hostname = "mail.os-cms.dk"
 media_width = 600
 debug = 1
-
