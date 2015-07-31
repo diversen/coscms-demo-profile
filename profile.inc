@@ -341,7 +341,7 @@ $_PROFILE_MODULES = array (
   ),
   26 => 
   array (
-    'id' => '29',
+    'id' => '30',
     'module_name' => 'nopostfiles',
     'module_version' => '3.01',
     'menu_item' => '0',
