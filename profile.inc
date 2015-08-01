@@ -339,19 +339,6 @@ $_PROFILE_MODULES = array (
     'public_clone_url' => 'git://github.com/diversen/blocks.git',
     'private_clone_url' => 'git@github.com:diversen/blocks.git',
   ),
-  26 => 
-  array (
-    'id' => '30',
-    'module_name' => 'nopostfiles',
-    'module_version' => '3.01',
-    'menu_item' => '0',
-    'run_level' => '1',
-    'load_on' => NULL,
-    'parent' => NULL,
-    'is_shell' => NULL,
-    'public_clone_url' => 'git://github.com/diversen/nopostfiles.git',
-    'private_clone_url' => 'git@github.com:diversen/nopostfiles.git',
-  ),
 );
 
 $_PROFILE_TEMPLATES = array (
