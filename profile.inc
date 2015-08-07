@@ -346,14 +346,14 @@ $_PROFILE_TEMPLATES = array (
   array (
     'public_clone_url' => 'git://github.com/diversen/zimpleza.git',
     'private_clone_url' => 'git@github.com:diversen/zimpleza.git',
-    'module_version' => '3.01',
+    'module_version' => '4.01',
     'module_name' => 'zimpleza',
   ),
   1 => 
   array (
     'public_clone_url' => 'git://github.com/diversen/jquery-markedit.git',
     'private_clone_url' => 'git@github.com:diversen/jquery-markedit.git',
-    'module_version' => '3.01',
+    'module_version' => '4.01',
     'module_name' => 'jquery-markedit',
   ),
   2 => 
