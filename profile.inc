@@ -289,19 +289,6 @@ $_PROFILE_MODULES = array (
   ),
   22 => 
   array (
-    'id' => '23',
-    'module_name' => 'google_analytics',
-    'module_version' => '4.01',
-    'menu_item' => '1',
-    'run_level' => '0,5',
-    'load_on' => NULL,
-    'parent' => NULL,
-    'is_shell' => NULL,
-    'public_clone_url' => 'git://github.com/diversen/google_analytics.git',
-    'private_clone_url' => 'git@github.com:diversen/google_analytics.git',
-  ),
-  23 => 
-  array (
     'id' => '24',
     'module_name' => 'configdb',
     'module_version' => '4.01',
@@ -313,7 +300,7 @@ $_PROFILE_MODULES = array (
     'public_clone_url' => 'git://github.com/diversen/configdb.git',
     'private_clone_url' => 'git@github.com:diversen/configdb.git',
   ),
-  24 => 
+  23 => 
   array (
     'id' => '25',
     'module_name' => 'gallery',
@@ -326,7 +313,7 @@ $_PROFILE_MODULES = array (
     'public_clone_url' => 'git://github.com/diversen/gallery.git',
     'private_clone_url' => 'git@github.com:diversen/gallery.git',
   ),
-  25 => 
+  24 => 
   array (
     'id' => '26',
     'module_name' => 'userinfo',
