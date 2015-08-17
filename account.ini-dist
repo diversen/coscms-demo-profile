@@ -9,4 +9,3 @@ account_allow_create = "super"
 account_disable_admin_interface = 0
 account_admin_only = 0
 account_logins[0] = "email"
-account_auto_merge[0] = "google.com"
