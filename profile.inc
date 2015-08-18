@@ -57,13 +57,13 @@ $_PROFILE_MODULES = array (
   array (
     'id' => '6',
     'module_name' => 'account',
-    'module_version' => '5.012',
+    'module_version' => '5.013',
     'menu_item' => '0',
     'run_level' => '0',
     'load_on' => NULL,
     'parent' => NULL,
     'is_shell' => NULL,
-    'public_clone_url' => 'git://github.com/diversen/account.git',
+    'public_clone_url' => 'https://github.com/diversen/account.git',
     'private_clone_url' => 'git@github.com:diversen/account.git',
   ),
   5 => 
